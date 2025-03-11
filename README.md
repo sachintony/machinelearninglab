@@ -20,3 +20,6 @@ these constructs.</h1>
 <li> Median Income - 2022 Dollars: Shows the median income adjusted to 2022 dollars.</li>
 <li> Mean Income - Current Dollars: Shows the mean income in current dollars.</li>
 <li> Mean Income - 2022 Dollars: Shows the mean income adjusted to 2022 dollars.</li>
+
+
+<h3>From the machine learning analysis and programs done the best result I have got is from the Decision tree of Entropy and Gini</h3>
