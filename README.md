@@ -1,5 +1,5 @@
 # machinelearninglab
-This dataset captures the relationship between home cost and average income across geographic regions of the United States over time.
+<h1>This dataset captures the relationship between home cost and average income across geographic regions of the United States over time.
 
 Ultimately I intend to augment this dataset with relevant
 economic indicators from Federal Reserve Economic Data (FRED) to better elucidate insights
